@@ -68064,7 +68064,7 @@ A.VW.prototype={
 $1(a){return A.alV()},
 $S:122}
 A.Et.prototype={
-I(a){var s=null,r=A.b2(a),q=A.aj0(a,new A.VY(),t.ph,t.S),p=r.RG.b,o=A.yN("ha sonado",s,s,p,B.hb,s),n=t.p,m=A.ra(B.a6,A.a([new A.pP(A.axQ(s,s,new A.um("image.jpeg",s,s)),100+q*1.5,s),B.GX],n),B.d2),l=r.fy
+I(a){var s=null,r=A.b2(a),q=A.aj0(a,new A.VY(),t.ph,t.S),p=r.RG.b,o=A.yN("ha sonado",s,s,p,B.hb,s),n=t.p,m=A.ra(B.a6,A.a([new A.pP(A.axQ(s,s,new A.um("assets/image.jpeg",s,s)),100+q*1.5,s),B.GX],n),B.d2),l=r.fy
 n=A.anU(s,A.p5(new A.Lb(A.VN(A.amM(A.a([B.CO,o,m,A.yN(q<=1?"vez":"veces",s,s,p,B.hb,s),A.a4u(A.amM(A.a([B.Cl,A.Z2(l,B.It,!1,new A.VZ(a)),A.j_(A.Z2(r.cy,B.Iw,!1,new A.W_(a)),30,30),A.Z2(l,B.Iv,!1,new A.W0(a)),B.Cl],n),B.Ii),B.dg,B.cc),B.CO],n),B.a2w),B.fH,B.cc),s),s,s))
 return new A.uq(n,s,new A.W1(),s,n,s,t.Pw)}}
 A.VY.prototype={
