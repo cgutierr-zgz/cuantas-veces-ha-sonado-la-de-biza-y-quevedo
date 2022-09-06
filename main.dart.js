@@ -68118,10 +68118,10 @@ var $async$$0=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:if($.y==null)A.ajt()
 $.y.toString
 A.aE2(A.ax1())
-if("".toLowerCase()==="prod")$.YR=new A.aft()
 s=2
 return A.V(A.a8e(A.a([B.He],t.UW)),$async$$0)
-case 2:p=A
+case 2:if("".toLowerCase()==="prod")$.YR=new A.aft()
+p=A
 s=4
 return A.V(q.a.$0(),$async$$0)
 case 4:s=3
